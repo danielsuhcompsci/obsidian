@@ -2,7 +2,7 @@
 ## Applying models to bio stuff
 
 - [[Cell Signaling]]
-- genes
+- Genes
 
 
 ## Helpful Resources
